@@ -1,0 +1,8 @@
+[01m[K/home/xianyu/rm_vision/rm_vision_ros2_galaxy_camera/src/galaxy_camera_node.cpp:6:10:[m[K [01;31m[Kfatal error: [m[Kcamera_info_manager/camera_info_manager.hpp: 没有那个文件或目录
+    6 | #include [01;31m[K<camera_info_manager/camera_info_manager.hpp>[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/galaxy_camera.dir/build.make:76：CMakeFiles/galaxy_camera.dir/src/galaxy_camera_node.cpp.o] 错误 1
+gmake[1]: *** [CMakeFiles/Makefile2:139：CMakeFiles/galaxy_camera.dir/all] 错误 2
+gmake[1]: *** 正在等待未完成的任务....
+gmake: *** [Makefile:146：all] 错误 2

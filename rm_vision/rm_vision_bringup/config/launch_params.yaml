@@ -1,0 +1,12 @@
+camera: galaxy
+
+odom2camera:
+  xyz: "\"0.0  0.03  0.04\""
+  # xyz: "\"0.106  0.0  0.07\""
+  # rpy: "\"-0.025  -0.025  3.16159265\""
+  rpy: "\"-0.02  -0.155  3.14159265\""
+
+detector_log_level: INFO
+tracker_log_level:  INFO
+serial_log_level: DEBUG
+  
